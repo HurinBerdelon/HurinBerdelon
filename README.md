@@ -3,12 +3,12 @@
 <table>
     <tr>
       <td>
-        <a href="README.md">🇺🇸 English | Inglês</a>
+        <a href="README.md" disabled>🇺🇸 English</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="readme_pt-br.md">🇧🇷 Portuguese | Português</a>
+        <a href="readme_pt-br.md">🇧🇷 Portuguese</a>
       </td>
     </tr>
   </table>
@@ -24,12 +24,6 @@
 <a href="mailto:fernando_cardozo@poli.ufrj.br">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
-</a>
-
-<a href="https://app.rocketseat.com.br/me/fernando-henrique-pereira-cardozo-01098">
-    <img src="./.github/Rocketseat-icon.png"  
-    height="27.5" 
-    alt="rocketseat">
 </a>
 
 
@@ -48,7 +42,6 @@
             and <img src="https://img.icons8.com/ultraviolet/16/000000/react--v2.png"/> React.js 
         </div>
     </li>
-    
     <li>
         <div 
         style=
