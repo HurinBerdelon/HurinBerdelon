@@ -1,19 +1,19 @@
-<h1> Hi there, I'm Fernando Cardozo, a.k.a. HurinBerdelon 🚀</h1>
+<h1> Olá, Eu sou o Fernando Cardozo (HurinBerdelon) 🚀</h1>
 
 <table>
     <tr>
       <td>
-        <a href="README.md">🇺🇸 English | Inglês</a>
+        <a href="README.md">🇺🇸 Inglês</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="readme_pt-br.md">🇧🇷 Portuguese | Português</a>
+        <a href="readme_pt-br.md">🇧🇷 Português</a>
       </td>
     </tr>
   </table>
 
-<h3> 📬 Contact me</h3>
+<h3> 📬 Entre em contato comigo</h3>
 
 <a href="https://www.linkedin.com/in/fernando-henrique-p-cardozo-17ab84a3/">
     <img 
@@ -33,10 +33,10 @@
 </a>
 
 
-<h3> About me</h3>
+<h3> Sobre mim</h3>
 
 <ul>
-    <li> 📊 I’m currently working as Nuclear Engineer and Data Scientist </li>
+    <li> 📊 Atualmente estou trabalhando como engenheiro nuclear e cientista de dados. </li>
     <li> 
         <div
         style=
@@ -44,8 +44,8 @@
         align-items: center;
         gap: 4px"
         >
-            📚 I’m currently learning <img src="https://img.icons8.com/fluency/16/000000/node-js.png"/> Node.js
-            and <img src="https://img.icons8.com/ultraviolet/16/000000/react--v2.png"/> React.js 
+            📚 Estou aprendendo <img src="https://img.icons8.com/fluency/16/000000/node-js.png"/> Node.js
+            e <img src="https://img.icons8.com/ultraviolet/16/000000/react--v2.png"/> React.js 
         </div>
     </li>
     
@@ -55,17 +55,17 @@
         "display: flex;
         align-items: center;
         gap: 4px">
-            💬 Ask me about <img src="https://img.icons8.com/color/16/000000/python--v1.png"/> Python, 
-            <img src="https://img.icons8.com/ios-filled/16/000000/big-data.png"/> Data Science, Machine Learning, <img src="https://img.icons8.com/fluency/16/000000/nuclear.png"/> Nuclear Engineering and <img src="https://img.icons8.com/external-bearicons-detailed-outline-bearicons/16/000000/external-question-frequently-asked-questions-faq-bearicons-detailed-outline-bearicons-5.png"/> Philosophy (why not?)
+            💬 Me pergunte sobre <img src="https://img.icons8.com/color/16/000000/python--v1.png"/> Python, 
+            <img src="https://img.icons8.com/ios-filled/16/000000/big-data.png"/> Ciência de Dados, <i> Machine Learning </i>, <img src="https://img.icons8.com/fluency/16/000000/nuclear.png"/> Engenharia nuclear e <img src="https://img.icons8.com/external-bearicons-detailed-outline-bearicons/16/000000/external-question-frequently-asked-questions-faq-bearicons-detailed-outline-bearicons-5.png"/> Filosofia (Por que não?)
         </div>
     </li>
-    <li> 👯 I’m looking to collaborate on open source projects. </li>
+    <li> 👯 Estou procurando ajudar com projetos <i>open source</i> </li>
     <li>
-        ⚡ Fun fact: My nickname is a reference to Tolkien Mythology. It's a Join of Hurin, a character of the first age of Middle Earth, and Berdelon, my name in Sindarin.
+        ⚡ Curiosidade: Meu nick é uma referência ao universo do Tolkien. É uma junção de Hurin, um personagem da primeira era da Terra Média, com Berdelon, meu nome em Sindarin.
     </li>
 </ul>
 
-<h3> 🖥 Languages and Tools </h3>
+<h3> 🖥 Linguagens e Ferramentas </h3>
 
 <img 
     src="https://img.shields.io/badge/Python-141CF5?style=for-the-badge&logo=python&logoColor=white"
