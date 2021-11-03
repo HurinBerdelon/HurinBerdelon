@@ -1,5 +1,10 @@
 <h1> Hi there, I'm Fernando Cardozo, a.k.a. HurinBerdelon 🚀</h1>
 
+<p>
+    I'm nuclear engineer from UFRJ, doing master's degree in same area. I've been working for the past 2 years with data science applied the nuclear energy area. <br>
+    I'm studing web development, because it's something I'm interested in developing.
+</p>
+
 <table>
     <tr>
       <td>
@@ -15,13 +20,13 @@
 
 <h3> 📬 Contact me</h3>
 
-<a href="https://www.linkedin.com/in/fernando-henrique-p-cardozo-17ab84a3/">
+<a href="https://www.linkedin.com/in/fernando-henrique-p-cardozo-17ab84a3/" target='_blank'>
     <img 
       src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
       alt="linkedin">
 </a>
 
-<a href="mailto:fernando_cardozo@poli.ufrj.br">
+<a href="mailto:fernando_cardozo@poli.ufrj.br" target='_blank'>
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
 </a>
