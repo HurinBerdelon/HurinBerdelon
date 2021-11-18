@@ -66,6 +66,9 @@
 <h3> 🖥 Linguagens e Ferramentas </h3>
 
 <img 
+    src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+    alt="VSCode" />
+<img 
     src="https://img.shields.io/badge/Python-141CF5?style=for-the-badge&logo=python&logoColor=white"
     alt="Python" />
 <img 
