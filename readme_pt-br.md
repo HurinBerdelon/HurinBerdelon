@@ -1,7 +1,7 @@
 <h1> Olá, Eu sou o Fernando Cardozo (HurinBerdelon) 🚀</h1>
 
 <p>
-    Sou Engenheiro Nuclear de graduação e mestre na mesma engenharia. Trabalho há 2,5 anos com desenvolvimento de softwares relacionados a área de geração de energia. Comecei minha carreira no desenvolvimento de softwares através da ciência de dados e aprendizado de máquina e migrei para o desenvolvimento web no último 1 ano e meio. <br>
+    Sou Engenheiro Nuclear de graduação e mestre na mesma engenharia. Trabalho há 3 anos com desenvolvimento de softwares. Comecei minha carreira no desenvolvimento de softwares através da ciência de dados e aprendizado de máquina e migrei para o desenvolvimento web nos últimos 2 anos. <br>
     Atualmente tenho estudo para me especializar no desenvolvimento frontend.
 </p>
 
