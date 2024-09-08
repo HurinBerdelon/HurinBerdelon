@@ -1,8 +1,8 @@
 <h1> Hi there, I'm Fernando Cardozo, a.k.a. HurinBerdelon 🚀</h1>
 
 <p>
-    I'm nuclear engineer from UFRJ and master in same engineering. I've been working for the past 4 years with software development. I started my career in software development with machine learning and data science, but I migrated to web development in the last 3 years.<br>
-    Currently I study to specialize in frontend development.
+    I’m a nuclear engineer with over 4 years of experience in software development. During my master's degree, I discovered a passion for web development and I decided to switch careers. I’ve been working with Typescript on web for 3 years, mainly using React and NextJS in the frontend and NodeJS and ExpressJS in the backend. <br>
+    Currently I'm studying AI integration and web3.
 </p>
 
 <table>
